@@ -1,37 +1,64 @@
 {
-  "hash": "1adbcb21",
-  "configHash": "181a252f",
-  "lockfileHash": "220e71ca",
-  "browserHash": "31ea0927",
+  "hash": "15614af2",
+  "configHash": "c8614ea5",
+  "lockfileHash": "6622caf1",
+  "browserHash": "d72a9391",
   "optimized": {
     "@angular/core": {
       "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
       "file": "@angular_core.js",
-      "fileHash": "a4c41c5a",
+      "fileHash": "464b4664",
       "needsInterop": false
     },
     "@angular/platform-browser": {
       "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
       "file": "@angular_platform-browser.js",
-      "fileHash": "7b51f393",
+      "fileHash": "33efe3ed",
+      "needsInterop": false
+    },
+    "@angular/platform-browser/animations/async": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/animations/async.mjs",
+      "file": "@angular_platform-browser_animations_async.js",
+      "fileHash": "f3871d56",
       "needsInterop": false
     },
     "@angular/router": {
       "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
       "file": "@angular_router.js",
-      "fileHash": "124d88f2",
+      "fileHash": "d7f9307f",
+      "needsInterop": false
+    },
+    "@primeng/themes/aura": {
+      "src": "../../../../../../node_modules/@primeng/themes/aura/index.mjs",
+      "file": "@primeng_themes_aura.js",
+      "fileHash": "a252683d",
+      "needsInterop": false
+    },
+    "primeng/config": {
+      "src": "../../../../../../node_modules/primeng/fesm2022/primeng-config.mjs",
+      "file": "primeng_config.js",
+      "fileHash": "9a73242d",
       "needsInterop": false
     },
     "zone.js": {
       "src": "../../../../../../node_modules/zone.js/fesm2015/zone.js",
       "file": "zone__js.js",
-      "fileHash": "d33daa7c",
+      "fileHash": "de84427b",
       "needsInterop": true
     }
   },
   "chunks": {
-    "chunk-N3SE2FHN": {
-      "file": "chunk-N3SE2FHN.js"
+    "chunk-AHDVM4HW": {
+      "file": "chunk-AHDVM4HW.js"
+    },
+    "chunk-AOAH56RI": {
+      "file": "chunk-AOAH56RI.js"
+    },
+    "chunk-ZGIQ3RFG": {
+      "file": "chunk-ZGIQ3RFG.js"
+    },
+    "browser-JG4U5ZVX": {
+      "file": "browser-JG4U5ZVX.js"
     },
     "chunk-RQ5ZKA6V": {
       "file": "chunk-RQ5ZKA6V.js"
